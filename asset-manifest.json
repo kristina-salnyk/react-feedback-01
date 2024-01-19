@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-practice-feedback/static/css/main.0ea5a2ea.css",
-    "main.js": "/react-practice-feedback/static/js/main.a735f0f5.js",
-    "static/media/no-result.png": "/react-practice-feedback/static/media/no-result.b4a32637d7f239168cac.png",
-    "index.html": "/react-practice-feedback/index.html",
-    "main.0ea5a2ea.css.map": "/react-practice-feedback/static/css/main.0ea5a2ea.css.map",
-    "main.a735f0f5.js.map": "/react-practice-feedback/static/js/main.a735f0f5.js.map"
+    "main.css": "/react-feedback-01/static/css/main.0ea5a2ea.css",
+    "main.js": "/react-feedback-01/static/js/main.2770c5df.js",
+    "static/media/no-result.png": "/react-feedback-01/static/media/no-result.b4a32637d7f239168cac.png",
+    "index.html": "/react-feedback-01/index.html",
+    "main.0ea5a2ea.css.map": "/react-feedback-01/static/css/main.0ea5a2ea.css.map",
+    "main.2770c5df.js.map": "/react-feedback-01/static/js/main.2770c5df.js.map"
   },
   "entrypoints": [
     "static/css/main.0ea5a2ea.css",
-    "static/js/main.a735f0f5.js"
+    "static/js/main.2770c5df.js"
   ]
 }
